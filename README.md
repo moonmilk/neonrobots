@@ -5,3 +5,7 @@ https://www.urbanglass.org/classes/detail/neon-robots
 
 
 We'll put example arduino code here, as well as any other interesting stuff that comes up.
+
+All about arduino: http://arduino.cc
+
+Great place to buy stuff to attach to arduino: http://adafruit.com
