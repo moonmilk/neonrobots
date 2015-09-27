@@ -9,3 +9,5 @@ We'll put example arduino code here, as well as any other interesting stuff that
 All about arduino: http://arduino.cc
 
 Great place to buy stuff to attach to arduino: http://adafruit.com
+
+We'll post links to arduino programming tutorials by week 2.
