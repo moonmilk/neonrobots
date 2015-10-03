@@ -11,3 +11,9 @@ All about arduino: http://arduino.cc
 Great place to buy stuff to attach to arduino: http://adafruit.com
 
 We'll post links to arduino programming tutorials by week 2.
+
+* week1: interactive examples for week1 demos
+
+* week2: code written in the classroom for 2 transformers
+
+
